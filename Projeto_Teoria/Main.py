@@ -36,3 +36,4 @@ while(1):
     else:
         print('\nA cadeia nao é reconhecida pelos automatos!')
     print('--------------------------------------------------\n')
+

@@ -52,7 +52,7 @@ class AFN:
         return False
 
     def printAFN(self):
-        print('\n\n--------\033[1;34mAUTOMATO FINITO NAO DETERMINISTICO\033[0;0m--------\n')
+        print('\n\n--------AUTOMATO FINITO NAO DETERMINISTICO--------\n')
         print('Estados: ',self.Q)
         print('Estado inicial: ',self.q0)
         print('Estados finais: ',self.F)
